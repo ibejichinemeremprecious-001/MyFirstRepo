@@ -1,1 +1,3 @@
-i have learnt about function in cratch that it is a block of code that can be used overtime
+What I have learned from this course
+
+i have learnt about function in sratch that it is a block of code that can be used overtime
